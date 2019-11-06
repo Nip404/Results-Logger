@@ -14,3 +14,9 @@ Use -s option to sort by percentage, no option for alphabetical, -r for reverse 
 Use spaces for delimiters.
 Fill unknown values with '.' or otherwise - exception will be thrown if args is incomplete
 ```
+
+### Upload results
+- `perl ./results.pl [-v] [-s] [-r] [Subject Grade % Expected_grade Mock(%) Boundary]`
+
+### Display results
+- `perl results.pl [-sr] [-v]`
