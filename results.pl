@@ -5,7 +5,7 @@ use List::Util qw(max);
 
 use feature "say";
 
-our $file = 'C:\Users\Francois Ni\Desktop\megaflex\GCSEs.json';
+our $file = 'data.json';
 
 sub main {
     #-h/help option
